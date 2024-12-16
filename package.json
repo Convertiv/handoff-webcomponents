@@ -1,0 +1,19 @@
+{
+  "name": "hubspot-handoff",
+  "version": "1.0.0",
+  "description": "A simple library for pulling components from the handoff api and transforming them to web components",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "handlebars": "^4.7.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}
